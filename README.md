@@ -44,11 +44,15 @@ C++新手项目实践 — 智能人机五子棋对战(利用Easyx的基础函数
 	int  x_Points(vector<int> nums, int ch);			/*根据敌我棋的数量获取得分*/
   ```
   
-  ## 项目演示视频以及完整项目下载
-  [智能五子棋项目](https://zhuanlan.zhihu.com/p/364508072/edit)
-  
+## 项目演示视频以及完整项目下载
+**项目演示视频**
+
+[智能五子棋项目视频](https://zhuanlan.zhihu.com/p/364508072/edit)
+ 
   
 **网盘下载：**
-链接：[Vs2019项目下载](https://pan.baidu.com/s/1hxAxJnbA9Ue66vWO3CQICA ) 
+
+链接：[Vs2019项目下载](https://pan.baidu.com/s/1hxAxJnbA9Ue66vWO3CQICA) 
+
 提取码：gbau 
   
