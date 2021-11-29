@@ -1,6 +1,8 @@
 # C-project-practice---intelligent-man-machine-gobang-fight
 C++新手项目实践 — 智能人机五子棋对战(利用Easyx的基础函数)
 ## 项目说明
+**项目开发环境为 Windows10，Vs2019**
+
 **该项目使用语言为c++，利用了easyx辅助画图，并未涉及easyx的高级使用，稍加学习即可掌握，项目涉及三大类，分别是 ：**
 
 **1.Class Show。这个类包含了绘图的主要函数，以及鼠标调用的函数。**
@@ -47,7 +49,7 @@ C++新手项目实践 — 智能人机五子棋对战(利用Easyx的基础函数
 ## 项目演示视频以及完整项目下载
 **项目演示视频**
 
-[智能五子棋项目视频](https://zhuanlan.zhihu.com/p/364508072/edit)
+[智能五子棋项目视频](https://www.zhihu.com/zvideo/1365346584163643393)
 
 
 **网盘下载：**
